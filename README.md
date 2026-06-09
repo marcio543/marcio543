@@ -96,7 +96,8 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-plain.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-plain.svg" 
+  />
            
 
 
