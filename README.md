@@ -3,15 +3,6 @@
 
 
 **`Estudante de Tecnologia | Redes de Computadores | Cibersegurança`**
-
-
-
-Sou estudante da área de Tecnologia da Informação, com foco em **Redes de Computadores e Cibersegurança**.  
-Atualmente estou em transição de carreira para a área de TI, buscando minha primeira oportunidade profissional (estágio ou júnior).
-
-
-Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Cibersegurança ofensiva ou defensiva**.
-
 <img 
     align="left" 
     alt="HTML"
@@ -77,6 +68,15 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
 
 
 
+
+
+
+
+Sou estudante da área de Tecnologia da Informação, com foco em **Redes de Computadores e Cibersegurança**.  
+Atualmente estou em transição de carreira para a área de TI, buscando minha primeira oportunidade profissional (estágio ou júnior).
+
+
+Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Cibersegurança ofensiva ou defensiva**.
 
 
 
