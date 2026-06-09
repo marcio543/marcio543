@@ -50,9 +50,6 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
   <img src="https://github-readme-stats.shion.dev/api?username=marcio543&theme=prussian&hide_border=false" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=marcio543&layout=compact&theme=prussian&hide_border=false" />
-</p>
 
 ---
 
