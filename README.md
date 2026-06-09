@@ -127,13 +127,7 @@
       src="https://img.shields.io/badge/DIO.me-Aprendizado%20Tech-blueviolet?style=for-the-badge&logo=code&logoColor=white"
    />
 </a>
- 
-  
-  
- 
-<p align="left">
-
-   <a href="https://github.com/marcio543">
+         <p align="left"> <a href="https://github.com/marcio543">
       <img alt="GitHub followers" title="https://github.com/marcio543" 
       src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"/>
    </a>
