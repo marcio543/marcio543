@@ -119,6 +119,10 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
            
 
 
+
+
+
+
 <img width="1376" height="768" alt="WhatsApp Image 2026-06-09 at 00 12 37" src="https://github.com/user-attachments/assets/61ec5239-a0a2-41f1-a9d4-f5ad2435064d" />
 
 
