@@ -54,21 +54,6 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
 
 
 
-</p>
-
-
-
-</p>
-
-<p align="center">
-
-   <!-- Streak de consistência (importante pra estágio) -->
-   <img height="180em"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=marcio543&theme=tokyonight"/>
-
-</p>
-
-
 
 
 
@@ -133,22 +118,8 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
            
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-
-
-
-
--
-
-
-
-
-
-
-
-
-
-           
 
 
 
