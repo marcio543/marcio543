@@ -100,7 +100,7 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
            
 
 
-<h2>📊 Dashboards GitHub</h2>
+
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=marcio543&theme=prussian&hide_border=false" />
