@@ -107,12 +107,6 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
 
 
 
-<p align="left">
-
-   <a href="https://github.com/marcio543">
-      <img alt="GitHub followers" title="https://github.com/marcio543" 
-      src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"/>
-   </a>
 
 
    <a href="https://www.linkedin.com/in/marcio-rodrigues-dataanalyst/">
@@ -135,7 +129,12 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>    
 
+<p align="left">
 
+   <a href="https://github.com/marcio543">
+      <img alt="GitHub followers" title="https://github.com/marcio543" 
+      src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"/>
+   </a>
 
 
 
