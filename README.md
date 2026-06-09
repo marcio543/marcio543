@@ -123,7 +123,7 @@
 <a href="https://web.dio.me/users/marciorodriguesaf?tab=achievements">
    <img 
       alt="https://web.dio.me/users/marciorodriguesaf?tab=achievements" 
-      title="Meu perfil na DIO.me" 
+      title="https://web.dio.me/users/marciorodriguesaf?tab=achievements" 
       src="https://img.shields.io/badge/DIO.me-Aprendizado%20Tech-blueviolet?style=for-the-badge&logo=code&logoColor=white"
    />
 </a>
