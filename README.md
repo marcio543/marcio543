@@ -97,11 +97,6 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>    
 
 <p align="left">
 
@@ -125,6 +120,11 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
       src="https://img.shields.io/badge/DIO.me-Aprendizado%20Tech-blueviolet?style=for-the-badge&logo=code&logoColor=white"
    />
 </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>    
 
 
 
