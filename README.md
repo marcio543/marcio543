@@ -44,25 +44,6 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
 </a>
 
 
-<h2>📊 Dashboards GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=marcio543&theme=prussian&hide_border=false" />
-</p>
-
-
----
-
-
-
-
-
-
-
-
-
-
-
 
 <img 
     align="left" 
@@ -117,6 +98,24 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-plain.svg" />
            
+
+
+<h2>📊 Dashboards GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=marcio543&theme=prussian&hide_border=false" />
+</p>
+
+
+---
+
+
+
+
+
+
+
+
 
 
 
