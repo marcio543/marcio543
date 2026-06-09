@@ -99,7 +99,7 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-plain.svg" />
            
 
-
+---
 
 
 <p align="center">
