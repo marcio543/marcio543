@@ -13,6 +13,15 @@ Atualmente estou em transição de carreira para a área de TI, buscando minha p
 Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Cibersegurança ofensiva ou defensiva**.
 ---
 
+
+
+
+
+
+
+
+
+
 <img 
     align="left" 
     alt="HTML"
