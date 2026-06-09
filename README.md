@@ -11,23 +11,7 @@ Atualmente estou em transição de carreira para a área de TI, buscando minha p
 
 
 Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Cibersegurança ofensiva ou defensiva**.
-
-
-
-<h2>📊 Dashboards GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=marcio543&theme=prussian&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=marcio543&layout=compact&theme=prussian&hide_border=false" />
-</p>
-
 ---
-<h2>💻 Linguagens</h2>
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -60,7 +44,17 @@ Meu objetivo é construir uma base sólida e evoluir para atuar na área de **Ci
 </a>
 
 
+<h2>📊 Dashboards GitHub</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=marcio543&theme=prussian&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=marcio543&layout=compact&theme=prussian&hide_border=false" />
+</p>
+
+---
 
 
 
