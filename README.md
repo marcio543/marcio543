@@ -149,9 +149,6 @@
   <img src="https://github-readme-stats.shion.dev/api?username=marcio543&theme=prussian&hide_border=false" />
 </p>
 
-
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
